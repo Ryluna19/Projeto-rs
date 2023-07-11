@@ -20,7 +20,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 ##  Link Do Projeto Funcional
 <p align="center">
- <a href="https://www.linkedin.com/in/ryan-bulhoes-santos-560b25225/"target="_blank">
+ <a href="https://ryluna19.github.io/Projeto-rs/"target="_blank">
   #### LINK #### </a
 ></p>
 
